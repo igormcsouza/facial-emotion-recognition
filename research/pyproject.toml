@@ -8,6 +8,10 @@ authors = ["Igor Souza <igormcsouza@gmail.com>"]
 python = "^3.8"
 pandas = "^1.2.3"
 tqdm = "^4.60.0"
+notebook = "^6.3.0"
+ipykernel = "^5.5.3"
+Keras = "^2.4.3"
+tensorflow = "^2.4.1"
 
 [tool.poetry.dev-dependencies]
 
