@@ -26,7 +26,7 @@ from pandas import read_csv
 
 # if for any reason the repository wasn't clone, it will do for you
 if not os.path.exists('facial_expressions'):
-    os.system('git clone git@github.com:muxspace/facial_expressions.git')
+    os.system('git clone git@github.com:igormcsouza/facial_expressions.git')
 
 data = read_csv('facial_expressions/data/legend.csv')
 
