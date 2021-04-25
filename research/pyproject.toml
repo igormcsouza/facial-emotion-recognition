@@ -5,7 +5,7 @@ description = "Facial Emotion Recognition project Research"
 authors = ["Igor Souza <igormcsouza@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 pandas = "^1.2.3"
 tqdm = "^4.60.0"
 notebook = "^6.3.0"
